@@ -1,0 +1,10 @@
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.csprojAssemblyReference.cache
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.Form1.resources
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.Properties.Resources.resources
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.csproj.GenerateResource.cache
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\bin\Debug\iskola.exe.config
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\bin\Debug\iskola.exe
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\bin\Debug\iskola.pdb
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.exe
+C:\Users\istva\OneDrive\Asztali gép\2022-02-09_Iskola\iskola\obj\Debug\iskola.pdb
